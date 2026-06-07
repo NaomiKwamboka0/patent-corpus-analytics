@@ -1,0 +1,1910 @@
+{
+  "patents": [
+    {
+      "doc_id": "patent_B_001",
+      "figure_count": 10,
+      "claim_count": 10,
+      "citation_count": 3,
+      "cited_patents": [
+        "8332507",
+        "8887295",
+        "9266406"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_002",
+      "figure_count": 12,
+      "claim_count": 29,
+      "citation_count": 3,
+      "cited_patents": [
+        "4806182",
+        "5330953",
+        "8451625"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_003",
+      "figure_count": 9,
+      "claim_count": 8,
+      "citation_count": 1,
+      "cited_patents": [
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_004",
+      "figure_count": 49,
+      "claim_count": 7,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "4047117",
+        "8708290"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_005",
+      "figure_count": 34,
+      "claim_count": 6,
+      "citation_count": 3,
+      "cited_patents": [
+        "3919803",
+        "6188729",
+        "8064421"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_006",
+      "figure_count": 3,
+      "claim_count": 30,
+      "citation_count": 8,
+      "cited_patents": [
+        "3054515",
+        "3555230",
+        "3857401",
+        "4757472",
+        "5218961",
+        "6877719",
+        "7640795",
+        "8392632"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_007",
+      "figure_count": 5,
+      "claim_count": 6,
+      "citation_count": 3,
+      "cited_patents": [
+        "6033614",
+        "8050099",
+        "8332507"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "carbon fiber composite",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_008",
+      "figure_count": 2,
+      "claim_count": 24,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "continuation-in-part",
+      "primary_material": "nitrile rubber",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_009",
+      "figure_count": 2,
+      "claim_count": 25,
+      "citation_count": 2,
+      "cited_patents": [
+        "6188729",
+        "8050099"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_010",
+      "figure_count": 8,
+      "claim_count": 10,
+      "citation_count": 2,
+      "cited_patents": [
+        "5885309",
+        "9365337"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_011",
+      "figure_count": 12,
+      "claim_count": 9,
+      "citation_count": 2,
+      "cited_patents": [
+        "4806182",
+        "6188729"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_012",
+      "figure_count": 11,
+      "claim_count": 25,
+      "citation_count": 11,
+      "cited_patents": [
+        "3054515",
+        "4047117",
+        "4364441",
+        "4613033",
+        "4951701",
+        "5330953",
+        "7480690",
+        "8064421",
+        "8436114",
+        "9266406",
+        "9484967"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_013",
+      "figure_count": 2,
+      "claim_count": 28,
+      "citation_count": 8,
+      "cited_patents": [
+        "3054515",
+        "4806182",
+        "5054301",
+        "5239572",
+        "5823559",
+        "7187855",
+        "8064421",
+        "9266406"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_014",
+      "figure_count": 5,
+      "claim_count": 13,
+      "citation_count": 1,
+      "cited_patents": [
+        "5330953"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "nitrile rubber",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_015",
+      "figure_count": 5,
+      "claim_count": 6,
+      "citation_count": 5,
+      "cited_patents": [
+        "4806182",
+        "5330953",
+        "7640795",
+        "9121433",
+        "9509559"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_016",
+      "figure_count": 3,
+      "claim_count": 26,
+      "citation_count": 12,
+      "cited_patents": [
+        "3857401",
+        "4769852",
+        "4783640",
+        "5639709",
+        "5823559",
+        "5885309",
+        "6060434",
+        "7571300",
+        "8050099",
+        "8109761",
+        "9220576",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_017",
+      "figure_count": 18,
+      "claim_count": 19,
+      "citation_count": 2,
+      "cited_patents": [
+        "4849189",
+        "6768238"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_018",
+      "figure_count": 26,
+      "claim_count": 21,
+      "citation_count": 2,
+      "cited_patents": [
+        "4171304",
+        "7708064"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_019",
+      "figure_count": 5,
+      "claim_count": 20,
+      "citation_count": 2,
+      "cited_patents": [
+        "5330953",
+        "9249420"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_020",
+      "figure_count": 8,
+      "claim_count": 9,
+      "citation_count": 1,
+      "cited_patents": [
+        "4047117"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_021",
+      "figure_count": 6,
+      "claim_count": 29,
+      "citation_count": 3,
+      "cited_patents": [
+        "5854228",
+        "8718601",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_022",
+      "figure_count": 9,
+      "claim_count": 17,
+      "citation_count": 2,
+      "cited_patents": [
+        "6926287",
+        "7709097"
+      ],
+      "filing_type": "original",
+      "primary_material": "nitrile rubber",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_023",
+      "figure_count": 6,
+      "claim_count": 6,
+      "citation_count": 2,
+      "cited_patents": [
+        "3054515",
+        "7640795"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_024",
+      "figure_count": 5,
+      "claim_count": 25,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "continuation-in-part",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_025",
+      "figure_count": 9,
+      "claim_count": 13,
+      "citation_count": 5,
+      "cited_patents": [
+        "3960929",
+        "4160410",
+        "4667971",
+        "6011337",
+        "8050099"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_026",
+      "figure_count": 6,
+      "claim_count": 8,
+      "citation_count": 4,
+      "cited_patents": [
+        "3469241",
+        "3729295",
+        "6188729",
+        "7640795"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_027",
+      "figure_count": 7,
+      "claim_count": 25,
+      "citation_count": 2,
+      "cited_patents": [
+        "7709097",
+        "8368707"
+      ],
+      "filing_type": "original",
+      "primary_material": "nitrile rubber",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_028",
+      "figure_count": 8,
+      "claim_count": 24,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "4834068",
+        "6318800"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_029",
+      "figure_count": 5,
+      "claim_count": 18,
+      "citation_count": 3,
+      "cited_patents": [
+        "7953410",
+        "9266406",
+        "9789994"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_030",
+      "figure_count": 5,
+      "claim_count": 28,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "7504433",
+        "8064421"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "polyimide film",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_031",
+      "figure_count": 8,
+      "claim_count": 8,
+      "citation_count": 4,
+      "cited_patents": [
+        "4198493",
+        "4613033",
+        "9266406",
+        "9957550"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_032",
+      "figure_count": 4,
+      "claim_count": 20,
+      "citation_count": 1,
+      "cited_patents": [
+        "3054515"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "stainless steel",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_033",
+      "figure_count": 7,
+      "claim_count": 24,
+      "citation_count": 5,
+      "cited_patents": [
+        "3054515",
+        "3661023",
+        "5330953",
+        "5980226",
+        "8050099"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_034",
+      "figure_count": 1,
+      "claim_count": 5,
+      "citation_count": 2,
+      "cited_patents": [
+        "5823559",
+        "7757851"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_035",
+      "figure_count": 10,
+      "claim_count": 25,
+      "citation_count": 1,
+      "cited_patents": [
+        "4047117"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "anodized aluminum",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_036",
+      "figure_count": 18,
+      "claim_count": 13,
+      "citation_count": 3,
+      "cited_patents": [
+        "3785972",
+        "7498207",
+        "8910376"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_037",
+      "figure_count": 20,
+      "claim_count": 20,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "7504433",
+        "8050099"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_038",
+      "figure_count": 7,
+      "claim_count": 26,
+      "citation_count": 10,
+      "cited_patents": [
+        "3054515",
+        "3583470",
+        "4613033",
+        "5330953",
+        "6188729",
+        "7504433",
+        "7640795",
+        "8003041",
+        "8392632",
+        "8451625"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_039",
+      "figure_count": 7,
+      "claim_count": 7,
+      "citation_count": 1,
+      "cited_patents": [
+        "4160410"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_040",
+      "figure_count": 9,
+      "claim_count": 9,
+      "citation_count": 2,
+      "cited_patents": [
+        "4304256",
+        "8109761"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_041",
+      "figure_count": 8,
+      "claim_count": 26,
+      "citation_count": 3,
+      "cited_patents": [
+        "5330953",
+        "6183102",
+        "8436114"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_042",
+      "figure_count": 9,
+      "claim_count": 30,
+      "citation_count": 2,
+      "cited_patents": [
+        "7998674",
+        "9339960"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_043",
+      "figure_count": 4,
+      "claim_count": 9,
+      "citation_count": 2,
+      "cited_patents": [
+        "4435615",
+        "7504433"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_044",
+      "figure_count": 4,
+      "claim_count": 7,
+      "citation_count": 1,
+      "cited_patents": [
+        "5646211"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_045",
+      "figure_count": 43,
+      "claim_count": 6,
+      "citation_count": 2,
+      "cited_patents": [
+        "4047117",
+        "4613033"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_046",
+      "figure_count": 1,
+      "claim_count": 23,
+      "citation_count": 1,
+      "cited_patents": [
+        "5264486"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_047",
+      "figure_count": 9,
+      "claim_count": 18,
+      "citation_count": 5,
+      "cited_patents": [
+        "3960929",
+        "5885309",
+        "7504433",
+        "7640795",
+        "8050099"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_048",
+      "figure_count": 20,
+      "claim_count": 14,
+      "citation_count": 5,
+      "cited_patents": [
+        "4339319",
+        "4613033",
+        "5823559",
+        "9404652",
+        "9753213"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_049",
+      "figure_count": 6,
+      "claim_count": 11,
+      "citation_count": 1,
+      "cited_patents": [
+        "6519187"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_050",
+      "figure_count": 3,
+      "claim_count": 12,
+      "citation_count": 7,
+      "cited_patents": [
+        "4613033",
+        "5330953",
+        "6541334",
+        "6853935",
+        "7640795",
+        "8547078",
+        "9644443"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_051",
+      "figure_count": 5,
+      "claim_count": 19,
+      "citation_count": 8,
+      "cited_patents": [
+        "3054515",
+        "4160410",
+        "5330953",
+        "5885309",
+        "7640795",
+        "8064421",
+        "8392632",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_052",
+      "figure_count": 9,
+      "claim_count": 19,
+      "citation_count": 2,
+      "cited_patents": [
+        "4613033",
+        "4806182"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_053",
+      "figure_count": 9,
+      "claim_count": 24,
+      "citation_count": 9,
+      "cited_patents": [
+        "4047117",
+        "4613033",
+        "4921394",
+        "5204036",
+        "5330953",
+        "5823559",
+        "8392632",
+        "8883140",
+        "9266406"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "high density polyethylene",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_054",
+      "figure_count": 6,
+      "claim_count": 28,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_055",
+      "figure_count": 44,
+      "claim_count": 26,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "3364488",
+        "7480690"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_056",
+      "figure_count": 6,
+      "claim_count": 22,
+      "citation_count": 5,
+      "cited_patents": [
+        "4806182",
+        "7498207",
+        "7640795",
+        "8050099",
+        "8064421"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_057",
+      "figure_count": 18,
+      "claim_count": 15,
+      "citation_count": 2,
+      "cited_patents": [
+        "6541334",
+        "9770682"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_058",
+      "figure_count": 22,
+      "claim_count": 22,
+      "citation_count": 2,
+      "cited_patents": [
+        "4613033",
+        "7438532"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_059",
+      "figure_count": 10,
+      "claim_count": 8,
+      "citation_count": 2,
+      "cited_patents": [
+        "4160410",
+        "8708290"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_060",
+      "figure_count": 20,
+      "claim_count": 13,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_061",
+      "figure_count": 17,
+      "claim_count": 5,
+      "citation_count": 1,
+      "cited_patents": [
+        "6545146"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_062",
+      "figure_count": 5,
+      "claim_count": 29,
+      "citation_count": 3,
+      "cited_patents": [
+        "5333632",
+        "7571300",
+        "7640795"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_063",
+      "figure_count": 3,
+      "claim_count": 12,
+      "citation_count": 2,
+      "cited_patents": [
+        "3096309",
+        "5823559"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_064",
+      "figure_count": 13,
+      "claim_count": 21,
+      "citation_count": 3,
+      "cited_patents": [
+        "6318800",
+        "8064421",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_065",
+      "figure_count": 33,
+      "claim_count": 10,
+      "citation_count": 4,
+      "cited_patents": [
+        "3847261",
+        "6188729",
+        "8050099",
+        "9789994"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_066",
+      "figure_count": 1,
+      "claim_count": 29,
+      "citation_count": 2,
+      "cited_patents": [
+        "5218961",
+        "9298819"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "titanium alloy",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_067",
+      "figure_count": 7,
+      "claim_count": 23,
+      "citation_count": 2,
+      "cited_patents": [
+        "8676566",
+        "9121433"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_068",
+      "figure_count": 8,
+      "claim_count": 14,
+      "citation_count": 2,
+      "cited_patents": [
+        "3778008",
+        "4613033"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_069",
+      "figure_count": 11,
+      "claim_count": 25,
+      "citation_count": 1,
+      "cited_patents": [
+        "8050099"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "stainless steel",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_070",
+      "figure_count": 13,
+      "claim_count": 19,
+      "citation_count": 3,
+      "cited_patents": [
+        "4613033",
+        "6519187",
+        "7504433"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_071",
+      "figure_count": 15,
+      "claim_count": 24,
+      "citation_count": 8,
+      "cited_patents": [
+        "4198493",
+        "4806182",
+        "6011337",
+        "6227662",
+        "6849128",
+        "8050099",
+        "8064421",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_072",
+      "figure_count": 30,
+      "claim_count": 15,
+      "citation_count": 12,
+      "cited_patents": [
+        "3532909",
+        "4047117",
+        "4435615",
+        "4613033",
+        "4757472",
+        "5068861",
+        "6188729",
+        "7640795",
+        "8326583",
+        "8392632",
+        "9116358",
+        "9121433"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_073",
+      "figure_count": 28,
+      "claim_count": 30,
+      "citation_count": 2,
+      "cited_patents": [
+        "6539336",
+        "8708290"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_074",
+      "figure_count": 2,
+      "claim_count": 25,
+      "citation_count": 3,
+      "cited_patents": [
+        "5639709",
+        "6188729",
+        "8263398"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "anodized aluminum",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_075",
+      "figure_count": 47,
+      "claim_count": 5,
+      "citation_count": 2,
+      "cited_patents": [
+        "4613033",
+        "6188729"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_076",
+      "figure_count": 11,
+      "claim_count": 27,
+      "citation_count": 5,
+      "cited_patents": [
+        "3249957",
+        "4047117",
+        "7757851",
+        "9006407",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "polyimide film",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_077",
+      "figure_count": 2,
+      "claim_count": 20,
+      "citation_count": 3,
+      "cited_patents": [
+        "4342026",
+        "5330953",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_078",
+      "figure_count": 10,
+      "claim_count": 30,
+      "citation_count": 11,
+      "cited_patents": [
+        "3532909",
+        "3933912",
+        "4613033",
+        "4806182",
+        "6183102",
+        "6188729",
+        "6541334",
+        "6803481",
+        "8064421",
+        "9266406",
+        "9957550"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_079",
+      "figure_count": 2,
+      "claim_count": 14,
+      "citation_count": 3,
+      "cited_patents": [
+        "3395240",
+        "4842265",
+        "8436114"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_080",
+      "figure_count": 4,
+      "claim_count": 10,
+      "citation_count": 3,
+      "cited_patents": [
+        "3785972",
+        "6188729",
+        "8263398"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_081",
+      "figure_count": 15,
+      "claim_count": 10,
+      "citation_count": 4,
+      "cited_patents": [
+        "4806182",
+        "6318800",
+        "7504433",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_082",
+      "figure_count": 13,
+      "claim_count": 16,
+      "citation_count": 2,
+      "cited_patents": [
+        "3384402",
+        "9753213"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_083",
+      "figure_count": 5,
+      "claim_count": 8,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "continuation-in-part",
+      "primary_material": "carbon fiber composite",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_084",
+      "figure_count": 14,
+      "claim_count": 20,
+      "citation_count": 1,
+      "cited_patents": [
+        "6188729"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_085",
+      "figure_count": 1,
+      "claim_count": 10,
+      "citation_count": 5,
+      "cited_patents": [
+        "3054515",
+        "4171304",
+        "4339319",
+        "4613033",
+        "9249420"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "carbon fiber composite",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_086",
+      "figure_count": 5,
+      "claim_count": 17,
+      "citation_count": 11,
+      "cited_patents": [
+        "3762603",
+        "4047117",
+        "4282125",
+        "4613033",
+        "4834068",
+        "5330953",
+        "7630852",
+        "7640795",
+        "8263398",
+        "8326583",
+        "9266406"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_087",
+      "figure_count": 7,
+      "claim_count": 24,
+      "citation_count": 3,
+      "cited_patents": [
+        "4769852",
+        "4806182",
+        "8734013"
+      ],
+      "filing_type": "original",
+      "primary_material": "nitrile rubber",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_088",
+      "figure_count": 6,
+      "claim_count": 25,
+      "citation_count": 1,
+      "cited_patents": [
+        "9116358"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_089",
+      "figure_count": 4,
+      "claim_count": 6,
+      "citation_count": 1,
+      "cited_patents": [
+        "3054515"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "nitrile rubber",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_090",
+      "figure_count": 9,
+      "claim_count": 8,
+      "citation_count": 2,
+      "cited_patents": [
+        "4047117",
+        "5331811"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "titanium alloy",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_091",
+      "figure_count": 2,
+      "claim_count": 10,
+      "citation_count": 2,
+      "cited_patents": [
+        "7640795",
+        "8003041"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_092",
+      "figure_count": 20,
+      "claim_count": 20,
+      "citation_count": 2,
+      "cited_patents": [
+        "6188729",
+        "7504433"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_093",
+      "figure_count": 5,
+      "claim_count": 21,
+      "citation_count": 2,
+      "cited_patents": [
+        "4170528",
+        "9121433"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "polyimide film",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_094",
+      "figure_count": 7,
+      "claim_count": 6,
+      "citation_count": 0,
+      "cited_patents": [],
+      "filing_type": "continuation-in-part",
+      "primary_material": "high density polyethylene",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_095",
+      "figure_count": 5,
+      "claim_count": 17,
+      "citation_count": 12,
+      "cited_patents": [
+        "3583470",
+        "4806182",
+        "5854228",
+        "7640795",
+        "8064421",
+        "8363900",
+        "8676566",
+        "8734013",
+        "8883140",
+        "9266406",
+        "9365337",
+        "9789994"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_096",
+      "figure_count": 22,
+      "claim_count": 8,
+      "citation_count": 1,
+      "cited_patents": [
+        "7640795"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_097",
+      "figure_count": 1,
+      "claim_count": 26,
+      "citation_count": 2,
+      "cited_patents": [
+        "4047117",
+        "8363900"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_098",
+      "figure_count": 30,
+      "claim_count": 14,
+      "citation_count": 5,
+      "cited_patents": [
+        "5427562",
+        "6036646",
+        "8050099",
+        "8621836",
+        "9789994"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_099",
+      "figure_count": 16,
+      "claim_count": 28,
+      "citation_count": 1,
+      "cited_patents": [
+        "5330953"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_100",
+      "figure_count": 1,
+      "claim_count": 18,
+      "citation_count": 2,
+      "cited_patents": [
+        "3096309",
+        "9759701"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_101",
+      "figure_count": 2,
+      "claim_count": 29,
+      "citation_count": 1,
+      "cited_patents": [
+        "8363900"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_102",
+      "figure_count": 18,
+      "claim_count": 14,
+      "citation_count": 8,
+      "cited_patents": [
+        "4304256",
+        "4806182",
+        "6183102",
+        "6188729",
+        "7709097",
+        "7998674",
+        "8050099",
+        "8064421"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_103",
+      "figure_count": 7,
+      "claim_count": 17,
+      "citation_count": 5,
+      "cited_patents": [
+        "3847261",
+        "4047117",
+        "5239572",
+        "6188729",
+        "7640795"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_104",
+      "figure_count": 1,
+      "claim_count": 8,
+      "citation_count": 2,
+      "cited_patents": [
+        "4806182",
+        "6011337"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_105",
+      "figure_count": 74,
+      "claim_count": 16,
+      "citation_count": 2,
+      "cited_patents": [
+        "7757851",
+        "9484967"
+      ],
+      "filing_type": "original",
+      "primary_material": "Sylgard 184 elastomer",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_106",
+      "figure_count": 20,
+      "claim_count": 21,
+      "citation_count": 1,
+      "cited_patents": [
+        "4757472"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_107",
+      "figure_count": 9,
+      "claim_count": 6,
+      "citation_count": 2,
+      "cited_patents": [
+        "7640795",
+        "8621836"
+      ],
+      "filing_type": "original",
+      "primary_material": "titanium alloy",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_108",
+      "figure_count": 2,
+      "claim_count": 7,
+      "citation_count": 3,
+      "cited_patents": [
+        "6188729",
+        "7640795",
+        "7757851"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "anodized aluminum",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_109",
+      "figure_count": 42,
+      "claim_count": 9,
+      "citation_count": 3,
+      "cited_patents": [
+        "4047117",
+        "5068861",
+        "6849128"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "optical_imaging"
+    },
+    {
+      "doc_id": "patent_B_110",
+      "figure_count": 4,
+      "claim_count": 16,
+      "citation_count": 1,
+      "cited_patents": [
+        "8064421"
+      ],
+      "filing_type": "original",
+      "primary_material": "stainless steel",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_111",
+      "figure_count": 6,
+      "claim_count": 27,
+      "citation_count": 8,
+      "cited_patents": [
+        "3598967",
+        "5218961",
+        "5823559",
+        "7504433",
+        "8064421",
+        "8718601",
+        "9266406",
+        "9644443"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "chemical_materials"
+    },
+    {
+      "doc_id": "patent_B_112",
+      "figure_count": 49,
+      "claim_count": 25,
+      "citation_count": 3,
+      "cited_patents": [
+        "3555230",
+        "8326583",
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_113",
+      "figure_count": 5,
+      "claim_count": 27,
+      "citation_count": 1,
+      "cited_patents": [
+        "3598967"
+      ],
+      "filing_type": "original",
+      "primary_material": "tungsten carbide",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_114",
+      "figure_count": 41,
+      "claim_count": 16,
+      "citation_count": 1,
+      "cited_patents": [
+        "4842265"
+      ],
+      "filing_type": "continuation-in-part",
+      "primary_material": "tungsten carbide",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_115",
+      "figure_count": 2,
+      "claim_count": 15,
+      "citation_count": 2,
+      "cited_patents": [
+        "4170528",
+        "4952791"
+      ],
+      "filing_type": "original",
+      "primary_material": "borosilicate glass",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_116",
+      "figure_count": 4,
+      "claim_count": 19,
+      "citation_count": 3,
+      "cited_patents": [
+        "3054515",
+        "7504433",
+        "7757851"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "manufacturing_process"
+    },
+    {
+      "doc_id": "patent_B_117",
+      "figure_count": 7,
+      "claim_count": 23,
+      "citation_count": 2,
+      "cited_patents": [
+        "4047117",
+        "5823559"
+      ],
+      "filing_type": "original",
+      "primary_material": "high density polyethylene",
+      "topic": "electronic_computing"
+    },
+    {
+      "doc_id": "patent_B_118",
+      "figure_count": 16,
+      "claim_count": 20,
+      "citation_count": 1,
+      "cited_patents": [
+        "9266406"
+      ],
+      "filing_type": "original",
+      "primary_material": "carbon fiber composite",
+      "topic": "mechanical_structural"
+    },
+    {
+      "doc_id": "patent_B_119",
+      "figure_count": 1,
+      "claim_count": 27,
+      "citation_count": 1,
+      "cited_patents": [
+        "3054515"
+      ],
+      "filing_type": "original",
+      "primary_material": "nitrile rubber",
+      "topic": "medical_biological"
+    },
+    {
+      "doc_id": "patent_B_120",
+      "figure_count": 1,
+      "claim_count": 28,
+      "citation_count": 2,
+      "cited_patents": [
+        "3249957",
+        "9957550"
+      ],
+      "filing_type": "original",
+      "primary_material": "anodized aluminum",
+      "topic": "optical_imaging"
+    }
+  ],
+  "aggregations": {
+    "corpus_size": 120,
+    "topic_counts": {
+      "medical_biological": 14,
+      "chemical_materials": 23,
+      "electronic_computing": 17,
+      "optical_imaging": 11,
+      "manufacturing_process": 20,
+      "mechanical_structural": 35,
+      "other": 0
+    },
+    "max_figure_count": 74,
+    "patent_with_max_figures": "patent_B_105",
+    "patents_above_median_figures": 59,
+    "total_unique_cited_patents": 130,
+    "continuation_in_part_count": 25,
+    "mean_figures_by_topic": {
+      "medical_biological": 14.86,
+      "chemical_materials": 13.87,
+      "electronic_computing": 13.47,
+      "optical_imaging": 13.73,
+      "manufacturing_process": 10.45,
+      "mechanical_structural": 8.2,
+      "other": 0.0
+    },
+    "top_3_patents_by_citations": [
+      "patent_B_016",
+      "patent_B_072",
+      "patent_B_095"
+    ],
+    "cip_vs_noncip_mean_citations": {
+      "cip_mean": 2.84,
+      "noncip_mean": 3.26
+    },
+    "topic_with_highest_mean_figures": "medical_biological",
+    "figure_count_stdev": 12.44,
+    "citation_count_stdev": 2.75,
+    "citation_count_mean": 3.17,
+    "citation_count_median": 2.0,
+    "figure_citation_rank_correlation_sign": "none",
+    "mean_citations_by_topic": {
+      "medical_biological": 3.29,
+      "chemical_materials": 3.39,
+      "electronic_computing": 3.53,
+      "optical_imaging": 2.45,
+      "manufacturing_process": 2.9,
+      "mechanical_structural": 3.2,
+      "other": 0.0
+    },
+    "total_citations_by_topic": {
+      "medical_biological": 46,
+      "chemical_materials": 78,
+      "electronic_computing": 60,
+      "optical_imaging": 27,
+      "manufacturing_process": 58,
+      "mechanical_structural": 112,
+      "other": 0
+    },
+    "count_high_figure_high_cite": 27,
+    "figure_histogram": {
+      "0-5": 44,
+      "6-10": 37,
+      "11-20": 23,
+      "21-50": 15,
+      "51+": 1
+    },
+    "patent_with_max_figures_per_topic": {
+      "chemical_materials": "patent_B_105",
+      "electronic_computing": "patent_B_112",
+      "manufacturing_process": "patent_B_045",
+      "mechanical_structural": "patent_B_073",
+      "medical_biological": "patent_B_004",
+      "optical_imaging": "patent_B_055"
+    },
+    "count_metal_material": 49,
+    "shared_prior_art_count": 75,
+    "cited_patent_to_citers_count": {
+      "3054515": 17,
+      "3096309": 2,
+      "3249957": 2,
+      "3364488": 1,
+      "3384402": 1,
+      "3395240": 1,
+      "3469241": 1,
+      "3532909": 2,
+      "3555230": 2,
+      "3583470": 2,
+      "3598967": 2,
+      "3661023": 1,
+      "3729295": 1,
+      "3762603": 1,
+      "3778008": 1,
+      "3785972": 2,
+      "3847261": 2,
+      "3857401": 2,
+      "3919803": 1,
+      "3933912": 1,
+      "3960929": 2,
+      "4047117": 14,
+      "4160410": 4,
+      "4170528": 2,
+      "4171304": 2,
+      "4198493": 2,
+      "4282125": 1,
+      "4304256": 2,
+      "4339319": 2,
+      "4342026": 1,
+      "4364441": 1,
+      "4435615": 2,
+      "4613033": 16,
+      "4667971": 1,
+      "4757472": 3,
+      "4769852": 2,
+      "4783640": 1,
+      "4806182": 13,
+      "4834068": 2,
+      "4842265": 2,
+      "4849189": 1,
+      "4921394": 1,
+      "4951701": 1,
+      "4952791": 1,
+      "5054301": 1,
+      "5068861": 2,
+      "5204036": 1,
+      "5218961": 3,
+      "5239572": 2,
+      "5264486": 1,
+      "5330953": 14,
+      "5331811": 1,
+      "5333632": 1,
+      "5427562": 1,
+      "5639709": 2,
+      "5646211": 1,
+      "5823559": 8,
+      "5854228": 2,
+      "5885309": 4,
+      "5980226": 1,
+      "6011337": 3,
+      "6033614": 1,
+      "6036646": 1,
+      "6060434": 1,
+      "6183102": 3,
+      "6188729": 16,
+      "6227662": 1,
+      "6318800": 3,
+      "6519187": 2,
+      "6539336": 1,
+      "6541334": 3,
+      "6545146": 1,
+      "6768238": 1,
+      "6803481": 1,
+      "6849128": 2,
+      "6853935": 1,
+      "6877719": 1,
+      "6926287": 1,
+      "7187855": 1,
+      "7438532": 1,
+      "7480690": 2,
+      "7498207": 2,
+      "7504433": 10,
+      "7571300": 2,
+      "7630852": 1,
+      "7640795": 18,
+      "7708064": 1,
+      "7709097": 3,
+      "7757851": 5,
+      "7953410": 1,
+      "7998674": 2,
+      "8003041": 2,
+      "8050099": 13,
+      "8064421": 13,
+      "8109761": 2,
+      "8263398": 3,
+      "8326583": 3,
+      "8332507": 2,
+      "8363900": 3,
+      "8368707": 1,
+      "8392632": 5,
+      "8436114": 3,
+      "8451625": 2,
+      "8547078": 1,
+      "8621836": 2,
+      "8676566": 2,
+      "8708290": 3,
+      "8718601": 2,
+      "8734013": 2,
+      "8883140": 2,
+      "8887295": 1,
+      "8910376": 1,
+      "9006407": 1,
+      "9116358": 2,
+      "9121433": 4,
+      "9220576": 1,
+      "9249420": 2,
+      "9266406": 21,
+      "9298819": 1,
+      "9339960": 1,
+      "9365337": 2,
+      "9404652": 1,
+      "9484967": 2,
+      "9509559": 1,
+      "9644443": 2,
+      "9753213": 2,
+      "9759701": 1,
+      "9770682": 1,
+      "9789994": 4,
+      "9957550": 3
+    },
+    "max_citers_per_cited": 21,
+    "most_cited_patent_number": "9266406"
+  }
+}

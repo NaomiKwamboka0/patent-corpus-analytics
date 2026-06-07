@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "patent-corpus-analytics"
+version = "0.1.0"
+description = "Generate, extract, classify, and aggregate a corpus of patent documents into a structured analytics report."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Vito" }]
+keywords = ["nlp", "patents", "data-analysis", "text-mining", "citation-graph"]
+dependencies = ["numpy>=1.24", "matplotlib>=3.6"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+patent-analytics = "patent_analytics.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
